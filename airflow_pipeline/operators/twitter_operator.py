@@ -1,5 +1,5 @@
 import sys
-sys.path.append("/home/alura/Documents/pipeline_EL/pipeline_EL/src")
+sys.path.append("airflow_pipeline")
 
 
 import json
